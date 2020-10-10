@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Movies APP v2</string>
+    <!-- API KEYS -->
+    <string name="trakt_client_id">edeb948b6d99003fc70a8aab0eb3a6e65e82faa203313aed5d7866ff2da2133d</string>
+    <string name="trakt_client_secret">fff3b1d4c2e80417240dcb050b2c79cb25cff93b94aca12c86f7aa700a15ec67</string>
+
 </resources>
